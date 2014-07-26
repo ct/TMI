@@ -180,13 +180,6 @@ sub percentloss {
   return (sprintf("%0.2f", $self->totalloss / $self->firstweight * 100));
 }
 
-=head2 percentloss()
-
-Returns a value indicating weight lost over the entire range of pulled values as a
-percentage of the earliest weight in the range.
-
-=cut
-
 =head2 avglosstotal()
 
 Returns a value indicating average daily loss across entire range of pulled values.
