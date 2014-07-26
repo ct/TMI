@@ -299,7 +299,7 @@ There are no bugs, only unrefined features.
 
 =head1 LICENSE AND COPYRIGHT
 
-Use it, don't use it, whatever.
+Use it, don't use it, whatever. Your call.
 
 =cut
 1;    # End of TMI
